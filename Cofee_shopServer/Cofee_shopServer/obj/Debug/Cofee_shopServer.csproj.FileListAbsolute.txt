@@ -1,0 +1,7 @@
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\bin\Debug\Cofee_shopServer.exe.config
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\bin\Debug\Cofee_shopServer.exe
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\bin\Debug\Cofee_shopServer.pdb
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\obj\Debug\Cofee_shopServer.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\obj\Debug\Cofee_shopServer.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\obj\Debug\Cofee_shopServer.exe
+C:\Users\PMLS\source\repos\Cofee_shopServer\Cofee_shopServer\obj\Debug\Cofee_shopServer.pdb

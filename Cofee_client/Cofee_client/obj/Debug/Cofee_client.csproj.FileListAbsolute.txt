@@ -1,0 +1,6 @@
+C:\Users\PMLS\source\repos\Cofee_client\Cofee_client\obj\Debug\Cofee_client.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\Cofee_client\Cofee_client\obj\Debug\CoffeeShopClient.Program.resources
+C:\Users\PMLS\source\repos\Cofee_client\Cofee_client\obj\Debug\Cofee_client.Properties.Resources.resources
+C:\Users\PMLS\source\repos\Cofee_client\Cofee_client\obj\Debug\Cofee_client.csproj.GenerateResource.cache
+C:\Users\PMLS\source\repos\Cofee_client\Cofee_client\obj\Debug\Cofee_client.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\Cofee_client\Cofee_client\obj\Debug\Cofee_client.Form1.resources
